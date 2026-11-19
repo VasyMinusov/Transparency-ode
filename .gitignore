@@ -1,0 +1,44 @@
+# ── Python (uv / FastAPI) ──────────────────────────────────────
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist-py/
+*.egg-info/
+.venv/
+venv/
+uv.lock                # если не хотите фиксировать lock (опционально — можно оставить)
+transparency-api/data/transparency.db
+transparency-api/data/*.db
+
+# ── Node / pnpm / Vite ─────────────────────────────────────────
+node_modules/
+transparency-client/dist/
+transparency-client/.vite/
+.pnpm-store/
+
+# ── Tauri / Rust ───────────────────────────────────────────────
+transparency-client/src-tauri/target/
+transparency-client/src-tauri/WixTools/
+transparency-client/src-tauri/gen/schemas/   # генерируется автоматически
+
+# ── IDE / OS ───────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ── Локальные секреты и конфиги ────────────────────────────────
+.env
+.env.local
+*.log
+
+# ── Артефакты хакатона / временное ─────────────────────────────
+all_files_content.txt
+structure.txt
+to_text.sh
+tree.sh

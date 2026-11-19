@@ -1,0 +1,1404 @@
+{
+  "tenders": [
+    {
+      "id": 1,
+      "customer_inn": "7701000001",
+      "customer_name": "ГБУ «Жилищник района Арбат»",
+      "subject": "обслуживание ИТ-инфраструктуры",
+      "procedure": "открытый конкурс",
+      "date": "2023-03-24",
+      "submission_days": 13,
+      "start_price": 4257256,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 2,
+      "customer_inn": "7701000005",
+      "customer_name": "ГУП «Мосгортранс»",
+      "subject": "поставка продуктов",
+      "procedure": "открытый конкурс",
+      "date": "2026-07-08",
+      "submission_days": 24,
+      "start_price": 826718,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 3,
+      "customer_inn": "7701000001",
+      "customer_name": "ГБУ «Жилищник района Арбат»",
+      "subject": "поставка мебели",
+      "procedure": "аукцион",
+      "date": "2026-05-26",
+      "submission_days": 11,
+      "start_price": 1451552,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 4,
+      "customer_inn": "7701000001",
+      "customer_name": "ГБУ «Жилищник района Арбат»",
+      "subject": "ремонт помещений",
+      "procedure": "аукцион",
+      "date": "2022-04-28",
+      "submission_days": 13,
+      "start_price": 8476230,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 5,
+      "customer_inn": "7701000001",
+      "customer_name": "ГБУ «Жилищник района Арбат»",
+      "subject": "поставка продуктов",
+      "procedure": "запрос котировок",
+      "date": "2023-03-15",
+      "submission_days": 22,
+      "start_price": 1210036,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 6,
+      "customer_inn": "7701000003",
+      "customer_name": "ГКУ «Центр инвестиций Москвы»",
+      "subject": "обслуживание ИТ-инфраструктуры",
+      "procedure": "запрос котировок",
+      "date": "2024-04-21",
+      "submission_days": 25,
+      "start_price": 3143064,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 7,
+      "customer_inn": "7701000003",
+      "customer_name": "ГКУ «Центр инвестиций Москвы»",
+      "subject": "охранные услуги",
+      "procedure": "открытый конкурс",
+      "date": "2026-08-03",
+      "submission_days": 11,
+      "start_price": 3196256,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 8,
+      "customer_inn": "7701000001",
+      "customer_name": "ГБУ «Жилищник района Арбат»",
+      "subject": "поставка мебели",
+      "procedure": "аукцион",
+      "date": "2026-05-18",
+      "submission_days": 10,
+      "start_price": 1750700,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 9,
+      "customer_inn": "7701000004",
+      "customer_name": "ГБПОУ «Колледж связи №54»",
+      "subject": "обслуживание ИТ-инфраструктуры",
+      "procedure": "запрос котировок",
+      "date": "2024-09-25",
+      "submission_days": 15,
+      "start_price": 4703013,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 10,
+      "customer_inn": "7701000005",
+      "customer_name": "ГУП «Мосгортранс»",
+      "subject": "уборка территории",
+      "procedure": "открытый конкурс",
+      "date": "2026-06-16",
+      "submission_days": 10,
+      "start_price": 1081993,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 11,
+      "customer_inn": "7701000005",
+      "customer_name": "ГУП «Мосгортранс»",
+      "subject": "обслуживание ИТ-инфраструктуры",
+      "procedure": "аукцион",
+      "date": "2022-09-25",
+      "submission_days": 14,
+      "start_price": 2879872,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 12,
+      "customer_inn": "7701000005",
+      "customer_name": "ГУП «Мосгортранс»",
+      "subject": "уборка территории",
+      "procedure": "открытый конкурс",
+      "date": "2024-07-22",
+      "submission_days": 30,
+      "start_price": 987666,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 13,
+      "customer_inn": "7701000002",
+      "customer_name": "АО «Мосводоканал»",
+      "subject": "обслуживание ИТ-инфраструктуры",
+      "procedure": "запрос котировок",
+      "date": "2022-04-03",
+      "submission_days": 11,
+      "start_price": 2849085,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 14,
+      "customer_inn": "7701000005",
+      "customer_name": "ГУП «Мосгортранс»",
+      "subject": "поставка мебели",
+      "procedure": "аукцион",
+      "date": "2025-04-04",
+      "submission_days": 13,
+      "start_price": 1605147,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 15,
+      "customer_inn": "7701000001",
+      "customer_name": "ГБУ «Жилищник района Арбат»",
+      "subject": "охранные услуги",
+      "procedure": "запрос котировок",
+      "date": "2025-03-14",
+      "submission_days": 15,
+      "start_price": 2068226,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 16,
+      "customer_inn": "7701000005",
+      "customer_name": "ГУП «Мосгортранс»",
+      "subject": "уборка территории",
+      "procedure": "открытый конкурс",
+      "date": "2023-03-14",
+      "submission_days": 25,
+      "start_price": 637231,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 17,
+      "customer_inn": "7701000004",
+      "customer_name": "ГБПОУ «Колледж связи №54»",
+      "subject": "ремонт помещений",
+      "procedure": "запрос котировок",
+      "date": "2025-03-07",
+      "submission_days": 19,
+      "start_price": 12560979,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 18,
+      "customer_inn": "7701000005",
+      "customer_name": "ГУП «Мосгортранс»",
+      "subject": "охранные услуги",
+      "procedure": "запрос котировок",
+      "date": "2022-03-03",
+      "submission_days": 29,
+      "start_price": 1879631,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 19,
+      "customer_inn": "7701000002",
+      "customer_name": "АО «Мосводоканал»",
+      "subject": "поставка продуктов",
+      "procedure": "запрос котировок",
+      "date": "2022-07-22",
+      "submission_days": 28,
+      "start_price": 1184547,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 20,
+      "customer_inn": "7701000004",
+      "customer_name": "ГБПОУ «Колледж связи №54»",
+      "subject": "поставка канцелярии",
+      "procedure": "открытый конкурс",
+      "date": "2022-08-20",
+      "submission_days": 28,
+      "start_price": 620125,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 21,
+      "customer_inn": "7701000003",
+      "customer_name": "ГКУ «Центр инвестиций Москвы»",
+      "subject": "обслуживание ИТ-инфраструктуры",
+      "procedure": "аукцион",
+      "date": "2025-05-15",
+      "submission_days": 7,
+      "start_price": 4018905,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 22,
+      "customer_inn": "7701000005",
+      "customer_name": "ГУП «Мосгортранс»",
+      "subject": "ремонт помещений",
+      "procedure": "запрос котировок",
+      "date": "2025-09-15",
+      "submission_days": 5,
+      "start_price": 8410069,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 23,
+      "customer_inn": "7701000001",
+      "customer_name": "ГБУ «Жилищник района Арбат»",
+      "subject": "охранные услуги",
+      "procedure": "открытый конкурс",
+      "date": "2025-12-15",
+      "submission_days": 7,
+      "start_price": 2064466,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 24,
+      "customer_inn": "7701000003",
+      "customer_name": "ГКУ «Центр инвестиций Москвы»",
+      "subject": "поставка продуктов",
+      "procedure": "аукцион",
+      "date": "2025-04-15",
+      "submission_days": 9,
+      "start_price": 904783,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 25,
+      "customer_inn": "7701000004",
+      "customer_name": "ГБПОУ «Колледж связи №54»",
+      "subject": "поставка канцелярии",
+      "procedure": "открытый конкурс",
+      "date": "2025-02-15",
+      "submission_days": 11,
+      "start_price": 541067,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 26,
+      "customer_inn": "7701000001",
+      "customer_name": "ГБУ «Жилищник района Арбат»",
+      "subject": "обслуживание ИТ-инфраструктуры",
+      "procedure": "открытый конкурс",
+      "date": "2025-11-20",
+      "submission_days": 15,
+      "start_price": 3500335,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 27,
+      "customer_inn": "7701000004",
+      "customer_name": "ГБПОУ «Колледж связи №54»",
+      "subject": "поставка продуктов",
+      "procedure": "запрос котировок",
+      "date": "2025-01-20",
+      "submission_days": 15,
+      "start_price": 1217550,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 28,
+      "customer_inn": "7701000002",
+      "customer_name": "АО «Мосводоканал»",
+      "subject": "поставка продуктов",
+      "procedure": "аукцион",
+      "date": "2025-10-20",
+      "submission_days": 15,
+      "start_price": 916213,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 29,
+      "customer_inn": "7701000001",
+      "customer_name": "ГБУ «Жилищник района Арбат»",
+      "subject": "поставка канцелярии",
+      "procedure": "открытый конкурс",
+      "date": "2025-06-20",
+      "submission_days": 15,
+      "start_price": 472930,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 30,
+      "customer_inn": "7701000005",
+      "customer_name": "ГУП «Мосгортранс»",
+      "subject": "уборка территории",
+      "procedure": "запрос котировок",
+      "date": "2024-04-10",
+      "submission_days": 18,
+      "start_price": 743786,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 31,
+      "customer_inn": "7701000002",
+      "customer_name": "АО «Мосводоканал»",
+      "subject": "поставка мебели",
+      "procedure": "запрос котировок",
+      "date": "2025-07-10",
+      "submission_days": 18,
+      "start_price": 1364872,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 32,
+      "customer_inn": "7701000002",
+      "customer_name": "АО «Мосводоканал»",
+      "subject": "поставка канцелярии",
+      "procedure": "запрос котировок",
+      "date": "2023-07-10",
+      "submission_days": 18,
+      "start_price": 385472,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 33,
+      "customer_inn": "7701000002",
+      "customer_name": "АО «Мосводоканал»",
+      "subject": "охранные услуги",
+      "procedure": "аукцион",
+      "date": "2025-05-10",
+      "submission_days": 18,
+      "start_price": 2453269,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 34,
+      "customer_inn": "7701000011",
+      "customer_name": "ГБУ «РегионМед»",
+      "subject": "поставка медицинских изделий",
+      "procedure": "закупка у единственного поставщика",
+      "date": "2025-01-10",
+      "submission_days": 5,
+      "start_price": 3860526,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 35,
+      "customer_inn": "7701000011",
+      "customer_name": "ГБУ «РегионМед»",
+      "subject": "поставка медицинских изделий",
+      "procedure": "закупка у единственного поставщика",
+      "date": "2025-03-10",
+      "submission_days": 5,
+      "start_price": 1432246,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 36,
+      "customer_inn": "7701000011",
+      "customer_name": "ГБУ «РегионМед»",
+      "subject": "поставка медицинских изделий",
+      "procedure": "закупка у единственного поставщика",
+      "date": "2025-05-10",
+      "submission_days": 5,
+      "start_price": 3395804,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 37,
+      "customer_inn": "7701000011",
+      "customer_name": "ГБУ «РегионМед»",
+      "subject": "поставка медицинских изделий",
+      "procedure": "закупка у единственного поставщика",
+      "date": "2025-07-10",
+      "submission_days": 5,
+      "start_price": 1787988,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 38,
+      "customer_inn": "7701000011",
+      "customer_name": "ГБУ «РегионМед»",
+      "subject": "поставка медицинских изделий",
+      "procedure": "закупка у единственного поставщика",
+      "date": "2025-09-10",
+      "submission_days": 5,
+      "start_price": 1408653,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 39,
+      "customer_inn": "7701000013",
+      "customer_name": "ФГБОУ «Региональный университет»",
+      "subject": "строительные работы этап 1",
+      "procedure": "открытый конкурс",
+      "date": "2024-01-15",
+      "submission_days": 20,
+      "start_price": 18000000,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 40,
+      "customer_inn": "7701000013",
+      "customer_name": "ФГБОУ «Региональный университет»",
+      "subject": "строительные работы этап 2",
+      "procedure": "открытый конкурс",
+      "date": "2024-03-15",
+      "submission_days": 20,
+      "start_price": 18000000,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 41,
+      "customer_inn": "7701000013",
+      "customer_name": "ФГБОУ «Региональный университет»",
+      "subject": "строительные работы этап 3",
+      "procedure": "открытый конкурс",
+      "date": "2024-05-15",
+      "submission_days": 20,
+      "start_price": 18000000,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 42,
+      "customer_inn": "7701000013",
+      "customer_name": "ФГБОУ «Региональный университет»",
+      "subject": "строительные работы этап 4",
+      "procedure": "открытый конкурс",
+      "date": "2024-07-15",
+      "submission_days": 20,
+      "start_price": 18000000,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 43,
+      "customer_inn": "7701000013",
+      "customer_name": "ФГБОУ «Региональный университет»",
+      "subject": "поставка лабораторного оборудования",
+      "procedure": "аукцион",
+      "date": "2025-09-05",
+      "submission_days": 7,
+      "start_price": 9000000,
+      "data_source": "tenders_mock"
+    },
+    {
+      "id": 44,
+      "customer_inn": "7701000013",
+      "customer_name": "ФГБОУ «Региональный университет»",
+      "subject": "благоустройство территории",
+      "procedure": "открытый конкурс",
+      "date": "2025-06-11",
+      "submission_days": 14,
+      "start_price": 12000000,
+      "data_source": "tenders_mock"
+    }
+  ],
+  "bids": [
+    {
+      "id": 1,
+      "tender_id": 1,
+      "supplier_inn": "7702000014",
+      "supplier_name": "ООО «Поставщик O»",
+      "price": 3015598,
+      "is_winner": true
+    },
+    {
+      "id": 2,
+      "tender_id": 1,
+      "supplier_inn": "7702000001",
+      "supplier_name": "ООО «Поставщик B»",
+      "price": 3240703,
+      "is_winner": false
+    },
+    {
+      "id": 3,
+      "tender_id": 2,
+      "supplier_inn": "7702000000",
+      "supplier_name": "ООО «Поставщик A»",
+      "price": 614693,
+      "is_winner": true
+    },
+    {
+      "id": 4,
+      "tender_id": 2,
+      "supplier_inn": "7702000006",
+      "supplier_name": "ООО «Поставщик G»",
+      "price": 656618,
+      "is_winner": false
+    },
+    {
+      "id": 5,
+      "tender_id": 2,
+      "supplier_inn": "7702000012",
+      "supplier_name": "ООО «Поставщик M»",
+      "price": 657464,
+      "is_winner": false
+    },
+    {
+      "id": 6,
+      "tender_id": 2,
+      "supplier_inn": "7702000007",
+      "supplier_name": "ООО «Поставщик H»",
+      "price": 800279,
+      "is_winner": false
+    },
+    {
+      "id": 7,
+      "tender_id": 3,
+      "supplier_inn": "7702000003",
+      "supplier_name": "ООО «Поставщик D»",
+      "price": 1250742,
+      "is_winner": true
+    },
+    {
+      "id": 8,
+      "tender_id": 3,
+      "supplier_inn": "7702000013",
+      "supplier_name": "ООО «Поставщик N»",
+      "price": 1267474,
+      "is_winner": false
+    },
+    {
+      "id": 9,
+      "tender_id": 3,
+      "supplier_inn": "7702000001",
+      "supplier_name": "ООО «Поставщик B»",
+      "price": 1302449,
+      "is_winner": false
+    },
+    {
+      "id": 10,
+      "tender_id": 3,
+      "supplier_inn": "7702000009",
+      "supplier_name": "ООО «Поставщик J»",
+      "price": 1353185,
+      "is_winner": false
+    },
+    {
+      "id": 11,
+      "tender_id": 3,
+      "supplier_inn": "7702000005",
+      "supplier_name": "ООО «Поставщик F»",
+      "price": 1366314,
+      "is_winner": false
+    },
+    {
+      "id": 12,
+      "tender_id": 4,
+      "supplier_inn": "7702000009",
+      "supplier_name": "ООО «Поставщик J»",
+      "price": 6319395,
+      "is_winner": true
+    },
+    {
+      "id": 13,
+      "tender_id": 4,
+      "supplier_inn": "7702000015",
+      "supplier_name": "ООО «Поставщик P»",
+      "price": 6776541,
+      "is_winner": false
+    },
+    {
+      "id": 14,
+      "tender_id": 4,
+      "supplier_inn": "7702000011",
+      "supplier_name": "ООО «Поставщик L»",
+      "price": 7523918,
+      "is_winner": false
+    },
+    {
+      "id": 15,
+      "tender_id": 4,
+      "supplier_inn": "7702000014",
+      "supplier_name": "ООО «Поставщик O»",
+      "price": 7555655,
+      "is_winner": false
+    },
+    {
+      "id": 16,
+      "tender_id": 4,
+      "supplier_inn": "7702000006",
+      "supplier_name": "ООО «Поставщик G»",
+      "price": 7599023,
+      "is_winner": false
+    },
+    {
+      "id": 17,
+      "tender_id": 5,
+      "supplier_inn": "7702000008",
+      "supplier_name": "ООО «Поставщик I»",
+      "price": 857901,
+      "is_winner": true
+    },
+    {
+      "id": 18,
+      "tender_id": 5,
+      "supplier_inn": "7702000011",
+      "supplier_name": "ООО «Поставщик L»",
+      "price": 924629,
+      "is_winner": false
+    },
+    {
+      "id": 19,
+      "tender_id": 5,
+      "supplier_inn": "7702000014",
+      "supplier_name": "ООО «Поставщик O»",
+      "price": 953904,
+      "is_winner": false
+    },
+    {
+      "id": 20,
+      "tender_id": 5,
+      "supplier_inn": "7702000013",
+      "supplier_name": "ООО «Поставщик N»",
+      "price": 1109942,
+      "is_winner": false
+    },
+    {
+      "id": 21,
+      "tender_id": 6,
+      "supplier_inn": "7702000015",
+      "supplier_name": "ООО «Поставщик P»",
+      "price": 2577191,
+      "is_winner": true
+    },
+    {
+      "id": 22,
+      "tender_id": 6,
+      "supplier_inn": "7702000005",
+      "supplier_name": "ООО «Поставщик F»",
+      "price": 2674476,
+      "is_winner": false
+    },
+    {
+      "id": 23,
+      "tender_id": 6,
+      "supplier_inn": "7702000016",
+      "supplier_name": "ООО «Поставщик Q»",
+      "price": 2713688,
+      "is_winner": false
+    },
+    {
+      "id": 24,
+      "tender_id": 6,
+      "supplier_inn": "7702000002",
+      "supplier_name": "ООО «Поставщик C»",
+      "price": 2855778,
+      "is_winner": false
+    },
+    {
+      "id": 25,
+      "tender_id": 6,
+      "supplier_inn": "7702000003",
+      "supplier_name": "ООО «Поставщик D»",
+      "price": 2857560,
+      "is_winner": false
+    },
+    {
+      "id": 26,
+      "tender_id": 7,
+      "supplier_inn": "7702000005",
+      "supplier_name": "ООО «Поставщик F»",
+      "price": 2615192,
+      "is_winner": true
+    },
+    {
+      "id": 27,
+      "tender_id": 7,
+      "supplier_inn": "7702000006",
+      "supplier_name": "ООО «Поставщик G»",
+      "price": 2946252,
+      "is_winner": false
+    },
+    {
+      "id": 28,
+      "tender_id": 8,
+      "supplier_inn": "7702000009",
+      "supplier_name": "ООО «Поставщик J»",
+      "price": 1280173,
+      "is_winner": true
+    },
+    {
+      "id": 29,
+      "tender_id": 8,
+      "supplier_inn": "7702000011",
+      "supplier_name": "ООО «Поставщик L»",
+      "price": 1438610,
+      "is_winner": false
+    },
+    {
+      "id": 30,
+      "tender_id": 9,
+      "supplier_inn": "7702000010",
+      "supplier_name": "ООО «Поставщик K»",
+      "price": 3493375,
+      "is_winner": true
+    },
+    {
+      "id": 31,
+      "tender_id": 9,
+      "supplier_inn": "7702000007",
+      "supplier_name": "ООО «Поставщик H»",
+      "price": 4296217,
+      "is_winner": false
+    },
+    {
+      "id": 32,
+      "tender_id": 10,
+      "supplier_inn": "7702000012",
+      "supplier_name": "ООО «Поставщик M»",
+      "price": 829939,
+      "is_winner": true
+    },
+    {
+      "id": 33,
+      "tender_id": 10,
+      "supplier_inn": "7702000010",
+      "supplier_name": "ООО «Поставщик K»",
+      "price": 830369,
+      "is_winner": false
+    },
+    {
+      "id": 34,
+      "tender_id": 11,
+      "supplier_inn": "7702000016",
+      "supplier_name": "ООО «Поставщик Q»",
+      "price": 2441408,
+      "is_winner": true
+    },
+    {
+      "id": 35,
+      "tender_id": 11,
+      "supplier_inn": "7702000006",
+      "supplier_name": "ООО «Поставщик G»",
+      "price": 2505046,
+      "is_winner": false
+    },
+    {
+      "id": 36,
+      "tender_id": 11,
+      "supplier_inn": "7702000005",
+      "supplier_name": "ООО «Поставщик F»",
+      "price": 2793538,
+      "is_winner": false
+    },
+    {
+      "id": 37,
+      "tender_id": 12,
+      "supplier_inn": "7702000015",
+      "supplier_name": "ООО «Поставщик P»",
+      "price": 753506,
+      "is_winner": true
+    },
+    {
+      "id": 38,
+      "tender_id": 12,
+      "supplier_inn": "7702000017",
+      "supplier_name": "ООО «Поставщик R»",
+      "price": 755004,
+      "is_winner": false
+    },
+    {
+      "id": 39,
+      "tender_id": 12,
+      "supplier_inn": "7702000001",
+      "supplier_name": "ООО «Поставщик B»",
+      "price": 784863,
+      "is_winner": false
+    },
+    {
+      "id": 40,
+      "tender_id": 12,
+      "supplier_inn": "7702000003",
+      "supplier_name": "ООО «Поставщик D»",
+      "price": 854061,
+      "is_winner": false
+    },
+    {
+      "id": 41,
+      "tender_id": 13,
+      "supplier_inn": "7702000002",
+      "supplier_name": "ООО «Поставщик C»",
+      "price": 2381596,
+      "is_winner": true
+    },
+    {
+      "id": 42,
+      "tender_id": 13,
+      "supplier_inn": "7702000008",
+      "supplier_name": "ООО «Поставщик I»",
+      "price": 2424530,
+      "is_winner": false
+    },
+    {
+      "id": 43,
+      "tender_id": 13,
+      "supplier_inn": "7702000005",
+      "supplier_name": "ООО «Поставщик F»",
+      "price": 2571410,
+      "is_winner": false
+    },
+    {
+      "id": 44,
+      "tender_id": 13,
+      "supplier_inn": "7702000011",
+      "supplier_name": "ООО «Поставщик L»",
+      "price": 2698276,
+      "is_winner": false
+    },
+    {
+      "id": 45,
+      "tender_id": 14,
+      "supplier_inn": "7702000012",
+      "supplier_name": "ООО «Поставщик M»",
+      "price": 1147950,
+      "is_winner": true
+    },
+    {
+      "id": 46,
+      "tender_id": 14,
+      "supplier_inn": "7702000014",
+      "supplier_name": "ООО «Поставщик O»",
+      "price": 1150845,
+      "is_winner": false
+    },
+    {
+      "id": 47,
+      "tender_id": 14,
+      "supplier_inn": "7702000007",
+      "supplier_name": "ООО «Поставщик H»",
+      "price": 1414023,
+      "is_winner": false
+    },
+    {
+      "id": 48,
+      "tender_id": 14,
+      "supplier_inn": "7702000008",
+      "supplier_name": "ООО «Поставщик I»",
+      "price": 1417293,
+      "is_winner": false
+    },
+    {
+      "id": 49,
+      "tender_id": 14,
+      "supplier_inn": "7702000017",
+      "supplier_name": "ООО «Поставщик R»",
+      "price": 1450892,
+      "is_winner": false
+    },
+    {
+      "id": 50,
+      "tender_id": 15,
+      "supplier_inn": "7702000015",
+      "supplier_name": "ООО «Поставщик P»",
+      "price": 1477054,
+      "is_winner": true
+    },
+    {
+      "id": 51,
+      "tender_id": 15,
+      "supplier_inn": "7702000008",
+      "supplier_name": "ООО «Поставщик I»",
+      "price": 1704377,
+      "is_winner": false
+    },
+    {
+      "id": 52,
+      "tender_id": 15,
+      "supplier_inn": "7702000014",
+      "supplier_name": "ООО «Поставщик O»",
+      "price": 1766453,
+      "is_winner": false
+    },
+    {
+      "id": 53,
+      "tender_id": 15,
+      "supplier_inn": "7702000001",
+      "supplier_name": "ООО «Поставщик B»",
+      "price": 1946568,
+      "is_winner": false
+    },
+    {
+      "id": 54,
+      "tender_id": 16,
+      "supplier_inn": "7702000007",
+      "supplier_name": "ООО «Поставщик H»",
+      "price": 493381,
+      "is_winner": true
+    },
+    {
+      "id": 55,
+      "tender_id": 16,
+      "supplier_inn": "7702000013",
+      "supplier_name": "ООО «Поставщик N»",
+      "price": 513680,
+      "is_winner": false
+    },
+    {
+      "id": 56,
+      "tender_id": 16,
+      "supplier_inn": "7702000015",
+      "supplier_name": "ООО «Поставщик P»",
+      "price": 527247,
+      "is_winner": false
+    },
+    {
+      "id": 57,
+      "tender_id": 16,
+      "supplier_inn": "7702000000",
+      "supplier_name": "ООО «Поставщик A»",
+      "price": 585960,
+      "is_winner": false
+    },
+    {
+      "id": 58,
+      "tender_id": 16,
+      "supplier_inn": "7702000002",
+      "supplier_name": "ООО «Поставщик C»",
+      "price": 621865,
+      "is_winner": false
+    },
+    {
+      "id": 59,
+      "tender_id": 17,
+      "supplier_inn": "7702000001",
+      "supplier_name": "ООО «Поставщик B»",
+      "price": 8969039,
+      "is_winner": true
+    },
+    {
+      "id": 60,
+      "tender_id": 17,
+      "supplier_inn": "7702000017",
+      "supplier_name": "ООО «Поставщик R»",
+      "price": 9895656,
+      "is_winner": false
+    },
+    {
+      "id": 61,
+      "tender_id": 17,
+      "supplier_inn": "7702000012",
+      "supplier_name": "ООО «Поставщик M»",
+      "price": 10469586,
+      "is_winner": false
+    },
+    {
+      "id": 62,
+      "tender_id": 18,
+      "supplier_inn": "7702000008",
+      "supplier_name": "ООО «Поставщик I»",
+      "price": 1378838,
+      "is_winner": true
+    },
+    {
+      "id": 63,
+      "tender_id": 18,
+      "supplier_inn": "7702000013",
+      "supplier_name": "ООО «Поставщик N»",
+      "price": 1784297,
+      "is_winner": false
+    },
+    {
+      "id": 64,
+      "tender_id": 19,
+      "supplier_inn": "7702000009",
+      "supplier_name": "ООО «Поставщик J»",
+      "price": 872592,
+      "is_winner": true
+    },
+    {
+      "id": 65,
+      "tender_id": 19,
+      "supplier_inn": "7702000007",
+      "supplier_name": "ООО «Поставщик H»",
+      "price": 917280,
+      "is_winner": false
+    },
+    {
+      "id": 66,
+      "tender_id": 19,
+      "supplier_inn": "7702000011",
+      "supplier_name": "ООО «Поставщик L»",
+      "price": 933389,
+      "is_winner": false
+    },
+    {
+      "id": 67,
+      "tender_id": 19,
+      "supplier_inn": "7702000012",
+      "supplier_name": "ООО «Поставщик M»",
+      "price": 1043278,
+      "is_winner": false
+    },
+    {
+      "id": 68,
+      "tender_id": 20,
+      "supplier_inn": "7702000002",
+      "supplier_name": "ООО «Поставщик C»",
+      "price": 457087,
+      "is_winner": true
+    },
+    {
+      "id": 69,
+      "tender_id": 20,
+      "supplier_inn": "7702000007",
+      "supplier_name": "ООО «Поставщик H»",
+      "price": 521927,
+      "is_winner": false
+    },
+    {
+      "id": 70,
+      "tender_id": 21,
+      "supplier_inn": "7702000015",
+      "supplier_name": "ООО «Поставщик P»",
+      "price": 3817960,
+      "is_winner": true
+    },
+    {
+      "id": 71,
+      "tender_id": 22,
+      "supplier_inn": "7702000010",
+      "supplier_name": "ООО «Поставщик K»",
+      "price": 7989565,
+      "is_winner": true
+    },
+    {
+      "id": 72,
+      "tender_id": 23,
+      "supplier_inn": "7702000009",
+      "supplier_name": "ООО «Поставщик J»",
+      "price": 1961243,
+      "is_winner": true
+    },
+    {
+      "id": 73,
+      "tender_id": 24,
+      "supplier_inn": "7702000017",
+      "supplier_name": "ООО «Поставщик R»",
+      "price": 859544,
+      "is_winner": true
+    },
+    {
+      "id": 74,
+      "tender_id": 25,
+      "supplier_inn": "7702000009",
+      "supplier_name": "ООО «Поставщик J»",
+      "price": 514014,
+      "is_winner": true
+    },
+    {
+      "id": 75,
+      "tender_id": 26,
+      "supplier_inn": "7702000009",
+      "supplier_name": "ООО «Поставщик J»",
+      "price": 2975285,
+      "is_winner": true
+    },
+    {
+      "id": 76,
+      "tender_id": 26,
+      "supplier_inn": "7702000006",
+      "supplier_name": "ООО «Поставщик G»",
+      "price": 3220000,
+      "is_winner": false
+    },
+    {
+      "id": 77,
+      "tender_id": 26,
+      "supplier_inn": "7702000012",
+      "supplier_name": "ООО «Поставщик M»",
+      "price": 3220000,
+      "is_winner": false
+    },
+    {
+      "id": 78,
+      "tender_id": 27,
+      "supplier_inn": "7702000003",
+      "supplier_name": "ООО «Поставщик D»",
+      "price": 1034918,
+      "is_winner": true
+    },
+    {
+      "id": 79,
+      "tender_id": 27,
+      "supplier_inn": "7702000002",
+      "supplier_name": "ООО «Поставщик C»",
+      "price": 1120000,
+      "is_winner": false
+    },
+    {
+      "id": 80,
+      "tender_id": 27,
+      "supplier_inn": "7702000015",
+      "supplier_name": "ООО «Поставщик P»",
+      "price": 1122000,
+      "is_winner": false
+    },
+    {
+      "id": 81,
+      "tender_id": 28,
+      "supplier_inn": "7702000005",
+      "supplier_name": "ООО «Поставщик F»",
+      "price": 778781,
+      "is_winner": true
+    },
+    {
+      "id": 82,
+      "tender_id": 28,
+      "supplier_inn": "7702000014",
+      "supplier_name": "ООО «Поставщик O»",
+      "price": 843000,
+      "is_winner": false
+    },
+    {
+      "id": 83,
+      "tender_id": 28,
+      "supplier_inn": "7702000002",
+      "supplier_name": "ООО «Поставщик C»",
+      "price": 843000,
+      "is_winner": false
+    },
+    {
+      "id": 84,
+      "tender_id": 29,
+      "supplier_inn": "7702000007",
+      "supplier_name": "ООО «Поставщик H»",
+      "price": 401991,
+      "is_winner": true
+    },
+    {
+      "id": 85,
+      "tender_id": 29,
+      "supplier_inn": "7702000008",
+      "supplier_name": "ООО «Поставщик I»",
+      "price": 435000,
+      "is_winner": false
+    },
+    {
+      "id": 86,
+      "tender_id": 29,
+      "supplier_inn": "7702000011",
+      "supplier_name": "ООО «Поставщик L»",
+      "price": 437000,
+      "is_winner": false
+    },
+    {
+      "id": 87,
+      "tender_id": 30,
+      "supplier_inn": "7702000003",
+      "supplier_name": "ООО «Поставщик D»",
+      "price": 664372,
+      "is_winner": true
+    },
+    {
+      "id": 88,
+      "tender_id": 30,
+      "supplier_inn": "7702000012",
+      "supplier_name": "ООО «Поставщик M»",
+      "price": 720764,
+      "is_winner": false
+    },
+    {
+      "id": 89,
+      "tender_id": 31,
+      "supplier_inn": "7702000003",
+      "supplier_name": "ООО «Поставщик D»",
+      "price": 1214888,
+      "is_winner": true
+    },
+    {
+      "id": 90,
+      "tender_id": 31,
+      "supplier_inn": "7702000012",
+      "supplier_name": "ООО «Поставщик M»",
+      "price": 1316504,
+      "is_winner": false
+    },
+    {
+      "id": 91,
+      "tender_id": 32,
+      "supplier_inn": "7702000003",
+      "supplier_name": "ООО «Поставщик D»",
+      "price": 344461,
+      "is_winner": true
+    },
+    {
+      "id": 92,
+      "tender_id": 32,
+      "supplier_inn": "7702000012",
+      "supplier_name": "ООО «Поставщик M»",
+      "price": 371727,
+      "is_winner": false
+    },
+    {
+      "id": 93,
+      "tender_id": 33,
+      "supplier_inn": "7702000003",
+      "supplier_name": "ООО «Поставщик D»",
+      "price": 2185929,
+      "is_winner": true
+    },
+    {
+      "id": 94,
+      "tender_id": 33,
+      "supplier_inn": "7702000012",
+      "supplier_name": "ООО «Поставщик M»",
+      "price": 2367044,
+      "is_winner": false
+    },
+    {
+      "id": 95,
+      "tender_id": 34,
+      "supplier_inn": "7702000102",
+      "supplier_name": "ООО «ФармЛогистик»",
+      "price": 1658021,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 96,
+      "tender_id": 35,
+      "supplier_inn": "7702000102",
+      "supplier_name": "ООО «ФармЛогистик»",
+      "price": 3339407,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 97,
+      "tender_id": 36,
+      "supplier_inn": "7702000102",
+      "supplier_name": "ООО «ФармЛогистик»",
+      "price": 3579797,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 98,
+      "tender_id": 37,
+      "supplier_inn": "7702000102",
+      "supplier_name": "ООО «ФармЛогистик»",
+      "price": 2461948,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 99,
+      "tender_id": 38,
+      "supplier_inn": "7702000102",
+      "supplier_name": "ООО «ФармЛогистик»",
+      "price": 3197406,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 100,
+      "tender_id": 39,
+      "supplier_inn": "7702000107",
+      "supplier_name": "ООО «КампусСтрой»",
+      "price": 15200000,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 101,
+      "tender_id": 39,
+      "supplier_inn": "7702000108",
+      "supplier_name": "ООО «ОбщежитиеПлюс»",
+      "price": 16800000,
+      "is_winner": false,
+      "admitted": true
+    },
+    {
+      "id": 102,
+      "tender_id": 40,
+      "supplier_inn": "7702000107",
+      "supplier_name": "ООО «КампусСтрой»",
+      "price": 15300000,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 103,
+      "tender_id": 40,
+      "supplier_inn": "7702000108",
+      "supplier_name": "ООО «ОбщежитиеПлюс»",
+      "price": 16900000,
+      "is_winner": false,
+      "admitted": true
+    },
+    {
+      "id": 104,
+      "tender_id": 41,
+      "supplier_inn": "7702000107",
+      "supplier_name": "ООО «КампусСтрой»",
+      "price": 15400000,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 105,
+      "tender_id": 41,
+      "supplier_inn": "7702000108",
+      "supplier_name": "ООО «ОбщежитиеПлюс»",
+      "price": 17000000,
+      "is_winner": false,
+      "admitted": true
+    },
+    {
+      "id": 106,
+      "tender_id": 42,
+      "supplier_inn": "7702000107",
+      "supplier_name": "ООО «КампусСтрой»",
+      "price": 15500000,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 107,
+      "tender_id": 42,
+      "supplier_inn": "7702000108",
+      "supplier_name": "ООО «ОбщежитиеПлюс»",
+      "price": 17100000,
+      "is_winner": false,
+      "admitted": true
+    },
+    {
+      "id": 108,
+      "tender_id": 43,
+      "supplier_inn": "7702000107",
+      "supplier_name": "ООО «КампусСтрой»",
+      "price": 8100000,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 109,
+      "tender_id": 44,
+      "supplier_inn": "7702000107",
+      "supplier_name": "ООО «КампусСтрой»",
+      "price": 10500000,
+      "is_winner": true,
+      "admitted": true
+    },
+    {
+      "id": 110,
+      "tender_id": 44,
+      "supplier_inn": "7702000110",
+      "supplier_name": "ООО «РемСервис-1»",
+      "price": 10800000,
+      "is_winner": false,
+      "admitted": false
+    },
+    {
+      "id": 111,
+      "tender_id": 44,
+      "supplier_inn": "7702000111",
+      "supplier_name": "ООО «РемСервис-2»",
+      "price": 11100000,
+      "is_winner": false,
+      "admitted": false
+    },
+    {
+      "id": 112,
+      "tender_id": 44,
+      "supplier_inn": "7702000108",
+      "supplier_name": "ООО «ОбщежитиеПлюс»",
+      "price": 11400000,
+      "is_winner": false,
+      "admitted": false
+    }
+  ]
+}
