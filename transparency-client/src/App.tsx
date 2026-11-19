@@ -12,6 +12,7 @@ import ModelsPanel from "./components/ModelsPanel";
 import JournalPanel from "./components/JournalPanel";
 import Landing from "./components/Landing";
 import { primarySource } from "./data/sources";
+import NetworkGraph from "./components/NetworkGraph";
 
 async function checkBackend(): Promise<boolean> {
   try {
@@ -115,6 +116,7 @@ export default function App() {
           )}
           {view === "signals" && <SignalsPanel onOpenEntity={openEntity} />}
           {view === "contracts" && <ContractsPanel onOpenEntity={openEntity} />}
+          {view === "network" && <NetworkGraph onOpenEntity={openEntity} />}
           {view === "laws" && <LawsPanel />}
           {view === "models" && <ModelsPanel />}
         </main>

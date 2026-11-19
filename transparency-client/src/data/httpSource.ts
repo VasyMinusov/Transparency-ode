@@ -4,6 +4,7 @@ import type { TransparencySource } from "./sources";
 import type {
   AgentOverview, AgentReport, ContractRow, Decision, EntitySummary, LawEntry,
   LLMSettings, LegalProvider, LocalModel, NewDecision, PullStatuses, Report, Signal, Verdict,
+  GraphPayload,
 } from "./types";
 
 const BASE = "http://127.0.0.1:8000/api/v1";
@@ -34,6 +35,8 @@ export const httpSource: TransparencySource = {
   getAgentReport: (entityId: number) => req<AgentReport>(`/entities/${entityId}/agent-report`),
 
   getAgentOverview: () => req<AgentOverview>("/agent/overview"),
+
+  getGraph: () => req<GraphPayload>("/graph"),
 
   getLLMSettings: () => req<LLMSettings>("/settings/llm"),
 

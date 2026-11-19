@@ -3,7 +3,7 @@ import { getSources } from "../data/sources";
 import { SOURCE_LABELS } from "../data/types";
 import type { Signal } from "../data/types";
 
-export type View = "check" | "signals" | "contracts" | "laws" | "models";
+export type View = "check" | "signals" | "contracts" | "network" | "laws" | "models";
 
 const MENU: { key: View; label: string; tip: string }[] = [
   { key: "check", label: "Проверка сущностей", tip: "Поиск организации и аналитический отчёт с экспертным вердиктом" },
@@ -11,6 +11,7 @@ const MENU: { key: View; label: string; tip: string }[] = [
   { key: "contracts", label: "Контракты", tip: "Реестр контрактов. По мере подключения реестров проверка проводится по каждому контракту" },
   { key: "laws", label: "Нормативная база", tip: "Нормативно-правовые акты, на которые ссылается экспертная система" },
   { key: "models", label: "Модели", tip: "Управление локальными моделями (Ollama) и выбор способа озвучивания агента" },
+  { key: "network", label: "Сеть", tip: "Интерактивный граф всех сущностей и связей с оценками риска" },
 ];
 
 export default function NavSidebar({

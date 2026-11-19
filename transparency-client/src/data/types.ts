@@ -189,3 +189,22 @@ export const VERDICT_LEVEL_LABELS: Record<VerdictLevel, string> = {
   attention: "Повышенное внимание",
   normal: "В норме",
 };
+
+// ── Граф сети ──
+export interface GraphNode {
+  id: number;
+  name: string;
+  entity_type: string;
+  risk_score: number;
+  risk_level: "low" | "medium" | "high";
+}
+export interface GraphEdge {
+  source: number;
+  target: number;
+  relation_type: string;
+  weight: number;
+}
+export interface GraphPayload {
+  nodes: GraphNode[];
+  edges: GraphEdge[];
+}

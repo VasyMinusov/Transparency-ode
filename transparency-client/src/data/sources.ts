@@ -7,6 +7,7 @@
 import type {
   AgentOverview, AgentReport, ContractRow, Decision, EntitySummary, LawEntry,
   LLMSettings, LegalProvider, LocalModel, NewDecision, PullStatuses, Report, Signal, Verdict,
+  GraphPayload,
 } from "./types";
 import { httpSource } from "./httpSource";
 
@@ -31,6 +32,8 @@ export interface TransparencySource {
   getAgentReport(entityId: number): Promise<AgentReport>;
   /** Восходящий агент: сводка по всей сети */
   getAgentOverview(): Promise<AgentOverview>;
+  /** Граф всей сети для визуализации */
+  getGraph(): Promise<GraphPayload>;
   /** Настройки LLM */
   getLLMSettings(): Promise<LLMSettings>;
   setLLMSettings(s: LLMSettings): Promise<LLMSettings>;
